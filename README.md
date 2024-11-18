@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]
 
 ![GitHub stars](https://img.shields.io/github/stars/codebucks27/wibe-studio-starter-files?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
@@ -93,3 +94,6 @@ https://www.pexels.com/@godisable-jacob-226636<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+=======
+# wibe-studio
+>>>>>>> 29051289af8215d4f4d72c58beb0c56353a3d68e
