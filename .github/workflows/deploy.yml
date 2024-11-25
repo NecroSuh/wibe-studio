@@ -25,4 +25,4 @@ jobs:
       # 3. S3 버킷으로 파일 업로드
       - name: Sync files to S3
         run: |
-          aws s3 sync . s3://sssssssssssssssssssssssssssss --delete
+          aws s3 sync . s3://dpfkdlakdgkfsutjrdk  --delete
