@@ -4,12 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-#test
-# testing
-# yesyesyes
-#mynameis
+
 /coverage
 
+#testtestsetsetsetsetset
 # production
 /build
 
